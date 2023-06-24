@@ -1,4 +1,3 @@
-
 #  Personal Finance Manager Web App
 
 Description:
@@ -15,6 +14,9 @@ The Personal Finance Manager Web App is a user-friendly web application designed
 ## Usage
 
 1. Clone the repository or download the files
+```bash
+git clone https://github.com/Fastest-Coder-First/Finance_Manager.git
+```
 2. Open the index.html file in your web browser
 3. Start managing your personal finances efficiently and effectively!
 ## Technologies Used
@@ -32,5 +34,9 @@ The project is built using the following technologies:
 
 
 ## Contributors
+
 1. Manisha Sahu [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-gupta-4a5942201/)
 2. Amarnath K [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-gupta-4a5942201/)
+3. Jai Surya Katla [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaisurya-katla/)
+
+## [FINANCE-MANAGER](https://turbo-adventure-l5pp1j7.pages.github.io/)
