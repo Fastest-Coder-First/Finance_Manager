@@ -4,6 +4,8 @@ Description:
 
 The Personal Finance Manager Web App is a user-friendly web application designed to help individuals effectively manage their personal finances. This app provides a convenient and centralized platform for users to track their income, expenses, budgets, and financial goals.
 
+https://github.com/Fastest-Coder-First/Finance_Manager/assets/81583897/f3c42a6e-829a-4250-abaf-b4b4da8fb579
+
 ## Features
 
 1. Expense Tracking: Easily record and categorize expenses to keep a comprehensive overview of your spending habits.
