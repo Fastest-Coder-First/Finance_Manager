@@ -1,4 +1,4 @@
-#  Personal Finance Manager Web App
+#  [Personal Finance Manager Web App](https://turbo-adventure-l5pp1j7.pages.github.io/)
 
 Description:
 
@@ -39,7 +39,6 @@ The project is built using the following technologies:
 2. Amarnath K [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-gupta-4a5942201/)
 3. Jai Surya Katla [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaisurya-katla/)
 
-## [FINANCE-MANAGER](https://turbo-adventure-l5pp1j7.pages.github.io/)
 
 ## Experience with Github Copilot 
 Our experience with GitHub Copilot while developing the Personal Finance Tracker project has been transformative. It has revolutionized our coding process, saving us significant time and effort by generating accurate and contextually relevant code suggestions. 
