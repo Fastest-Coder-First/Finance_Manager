@@ -30,3 +30,7 @@ The project is built using the following technologies:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-gupta-4a5942201/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/himanshu4030)
 
+
+## Contributors
+Manisha Sahu @mani-Sahu
+Amarnath K @E13ctron
