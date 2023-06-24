@@ -41,10 +41,14 @@ The project is built using the following technologies:
 
 Our experience with GitHub Copilot while developing the Personal Finance Tracker project has been transformative. It has revolutionized our coding process, saving us significant time and effort by generating accurate and contextually relevant code suggestions.
 Copilot seamlessly integrated into our workflow, providing real-time suggestions and completing code snippets, making us feel supported by an intelligent coding partner.
+
 ![Screenshot 1](./WhatsApp%20Image%202023-06-24%20at%2017.30.21.jpeg)
-![Screenshot 2](./WhatsApp%20Image%202023-06-24%20at%2017.35.10.jpeg)
 
 While Copilot proved immensely valuable, we occasionally needed to make slight modifications to the generated code to align it with our project's specific requirements. Nevertheless, Copilot's ability to understand our project's context and generate code in line with our coding style was remarkable. It empowered us to strike the perfect balance between automated assistance and manual fine-tuning.
+
+![Screenshot 2](./WhatsApp%20Image%202023-06-24%20at%2017.35.10.jpeg)
+
+
 We believe that Copilot's continuous learning and improvement, driven by user feedback and training data, will enhance its effectiveness in future projects.
 
 Overall, our experience with GitHub Copilot has been exceptional, accelerating our development process and enabling us to focus on the core functionality and user experience of our Personal Finance Tracker. We are grateful for the opportunities it has provided and eagerly anticipate leveraging its capabilities in future endeavors.
