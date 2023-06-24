@@ -32,5 +32,5 @@ The project is built using the following technologies:
 
 
 ## Contributors
-Manisha Sahu @mani-Sahu
-Amarnath K @E13ctron
+Manisha Sahu [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-gupta-4a5942201/)
+Amarnath K [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-gupta-4a5942201/)
